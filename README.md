@@ -69,9 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-
-
 https://user-images.githubusercontent.com/67476247/161385577-7de43283-9e8e-4058-be54-19696cb8b849.mov
 
+☆*:.｡. o(≧▽≦)o .｡.:*☆
+Thanks for the amazing content♥︎
 
+[Build a typing speed app with React - React Tutorial](https://youtu.be/t4W7PN4js-8)
